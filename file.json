@@ -1,0 +1,122 @@
+[
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7",
+    "is_file": false,
+    "name": "mp3",
+    "size": 5214
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7",
+    "is_file": false,
+    "name": "py",
+    "size": 6849
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7",
+    "is_file": false,
+    "name": "test",
+    "size": 0
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7",
+    "is_file": false,
+    "name": "torrent",
+    "size": 10458
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7",
+    "is_file": false,
+    "name": "txt",
+    "size": 4867
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\mp3",
+    "is_file": true,
+    "name": "JIirhTRoWxXPbzNpHuB.mp3",
+    "size": 1233
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\mp3",
+    "is_file": true,
+    "name": "pBSgCHRNiMsokf.mp3",
+    "size": 3981
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "ex1.py",
+    "size": 774
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "ex2.py",
+    "size": 744
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "ex3.py",
+    "size": 1854
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "ex4.py",
+    "size": 3336
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "ex5.py",
+    "size": 0
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "example.txt",
+    "size": 69
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "res.txt",
+    "size": 0
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\py",
+    "is_file": true,
+    "name": "test1.txt",
+    "size": 72
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\torrent",
+    "is_file": true,
+    "name": "EKaCOLc.torrent",
+    "size": 3083
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\torrent",
+    "is_file": true,
+    "name": "JhXDWrANbuHcYypifKgSvlPMdTG.torrent",
+    "size": 3893
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\torrent",
+    "is_file": true,
+    "name": "qGhCuRApTPIcEQfU.torrent",
+    "size": 3482
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\txt",
+    "is_file": true,
+    "name": "GCicDtbsvQeSpRflTWkoL.txt",
+    "size": 3490
+  },
+  {
+    "parent_dir": "C:/Users/Diana/Desktop/python_2/seminar7\\txt",
+    "is_file": true,
+    "name": "LvgjmiQIFqwrzORMPcYXyautdK.txt",
+    "size": 1377
+  }
+]
